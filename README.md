@@ -40,7 +40,7 @@ If you use this dataset in your research, please cite the following paper:
 ```
 Mouloud Iferroudjene, Victor Charpenay and Antoine Zimmermann. (2023, July). "FB15k-CVT: A Challenging Dataset for Knowledge Graph Embedding Models." In NeSy 2023, 17th International Workshop on Neural-Symbolic Learning and Reasoning.
 ```
-OR,
+Or,
 ```
 @inproceedings{iferroudjene2023fb15k,
   title={FB15k-CVT: A Challenging Dataset for Knowledge Graph Embedding Models},
